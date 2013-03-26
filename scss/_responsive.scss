@@ -12,6 +12,7 @@
 			width: 50%;
 	}
 	
+	.logo { width: 100%;}
 
 }
 
@@ -19,15 +20,15 @@
 
 @media (max-width: 64em) {
 
-*{ font-size: 95%;}
+	*{ font-size:95%;}
 
-body { width:90%; }
+	body { width:90%; }
 
-.module {
-		padding:1em;
-		float:left;
-		@include clearfix;
-}
+	.module {
+			padding:1em;
+			float:left;
+			@include clearfix;
+	}
 
 }
 
@@ -37,9 +38,6 @@ body { width:90%; }
 	body { width:70%; margin:0 auto;}
 	.module {
 			padding:0;
-			
-
-			
 	}
 	
 
