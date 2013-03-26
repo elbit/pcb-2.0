@@ -1,0 +1,46 @@
+
+
+@media (max-width: 37.5em) {
+	
+	body { width:95%; }
+
+	*{ font-size: 90%;}
+
+	.module {
+			padding:0.5em;
+			
+			width: 50%;
+	}
+	
+
+}
+
+//1024 px
+
+@media (max-width: 64em) {
+
+*{ font-size: 95%;}
+
+body { width:90%; }
+
+.module {
+		padding:1em;
+		float:left;
+		@include clearfix;
+}
+
+}
+
+
+@media (min-width: 100em) {
+
+	body { width:70%; margin:0 auto;}
+	.module {
+			padding:0;
+			
+
+			
+	}
+	
+
+}
