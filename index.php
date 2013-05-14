@@ -25,9 +25,10 @@
     <header >
         <div class="width-1-3 logo">
             <img  src="img/logo-pcb.jpg" alt="home"> 
-        </div> 
-        <a class="contacte float-right" href="mailto:info@produccionscontrabaix.com">info@produccionscontrabaix.com</a> 
-    
+        </div>
+        
+        <a class="contacte float-right" href="mailto:info@contrabaix.com">Contacte</a> 
+        
     </header> 
     
     <section>
@@ -74,7 +75,7 @@
     <footer>
         
       Produccions ContraBaix <?php echo date("Y");?> <span class="separador">|</span> Vidal i Ribas, 25. 08980 Sant Feliu de Llobregat. Barcelona. <span class="separador">|</span> +34 936 853 242   <span class="separador">|</span> 
-      <a class="contacte" href="mailto:info@produccionscontrabaix.com">info@produccionscontrabaix.com</a>  
+      <a class="contacte" href="mailto:info@contrabaix.com">info@contrabaix.com</a>  
         
     </footer>
         
