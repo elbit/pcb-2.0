@@ -9,9 +9,7 @@
         <title>Produccions Contrabaix</title>
         <meta name="description" content="Produccions Contrabaix">
         <meta name="viewport" content="width=device-width">
-
-       
-
+        
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css">
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
@@ -20,16 +18,9 @@
         <!--[if lt IE 7]>
             <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
         <![endif]-->
+   
 
-        
-    <header >
-        <div class="width-1-3 logo">
-            <img  src="img/logo-pcb.jpg" alt="home"> 
-        </div>
-        
-        <a class="contacte float-right" href="mailto:info@contrabaix.com">Contacte</a> 
-        
-    </header> 
+    <?php include 'header.php'; ?>
     
     <section>
         <h1> Difusi&oacute; cultural</h1>
@@ -72,24 +63,4 @@
     </section>
     
     
-    <footer>
-        
-      Produccions ContraBaix <?php echo date("Y");?> <span class="separador">|</span> Vidal i Ribas, 25. 08980 Sant Feliu de Llobregat. Barcelona. <span class="separador">|</span> +34 936 853 242   <span class="separador">|</span> 
-      <a class="contacte" href="mailto:info@contrabaix.com">info@contrabaix.com</a>  
-        
-    </footer>
-        
-        
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.0.min.js"><\/script>')</script>
-        <script src="js/plugins.js"></script>
-        <script src="js/main.js"></script>
-        
-        <script>
-            var _gaq=[['_setAccount','UA-7047554-1'],['_trackPageview']];
-            (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-            g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-            s.parentNode.insertBefore(g,s)}(document,'script'));
-        </script>
-    </body>
-</html>
+<?php include 'footer.php'; ?>
