@@ -30,19 +30,19 @@
             
         </div>
         <div class="module">
-            <h1>Noves actuacions de Sílvia Pérez Cruz & Javier Colina trio</h1>
+            <h1>Noves actuacions de Sílvia Pérez Cruz & Javier Colina Trio</h1>
             <img src="img/eli.jpg" alt="">
             <p>El projecte <a href="http://enlaimaginacion.com" target="_blank">En la imaginación</a> de la cantant empordanesa i el contrabaixista navarrès, que fa una revisió de clàssics de la cançó cubana, continua la seva gira de concerts. El proper 23 de maig la formació estarà a la  Sala Ibn Khaldoun d’Argel; el 8 de juny al Museu Centre Gaiás de Santiago de Compostela; i el 30 de juliol a Eivissa.</p>
         </div>
         <div class="module">
             <h1>Marcelo Mercadante Quinteto Porteño i Marco Mezquida trio al cicle ContraBaix</h1>
             <img src="img/mercadante.jpg" alt="">
-            <p>Després d’un exitós semestre al cicle ContraBaix, on hem pogut gaudir d’actuacions com les de Chano Domínguez; Big Mama; Andrea Motis & Joan Chamorro; o Colina Miralta Sambeat CMS trio; el cicle ContraBaix posa punt i final al primer semestre amb les actuacions de Marcelo Mercadante Quinteto Porteño, en una nit de tangos i sopar argentí (7 de juny, Sant Feliu de Llobregat); i Marco Mezquida trio, el jove talent que ens presentarà el seu primer disc com a líder My Friend Marko (9 de juny, Molins de Rei).</p>
+            <p>Després d’un exitós semestre al cicle <a href="http://contrabaix.com">ContraBaix</a>, on hem pogut gaudir d’actuacions com les de Chano Domínguez; Big Mama; Andrea Motis & Joan Chamorro; o Colina Miralta Sambeat CMS trio; el cicle ContraBaix posa punt i final al primer semestre amb les actuacions de <a href="http://www.contrabaix.com/marcelo-mercadante/">Marcelo Mercadante Quinteto Porteño</a>, en una nit de tangos i sopar argentí (7 de juny, Sant Feliu de Llobregat); i <a href="http://www.contrabaix.com/marco-mezquida-trio/">Marco Mezquida Trio</a>, el jove talent que ens presentarà el seu primer disc com a líder <a href="http://marcomezquida.com/marco-mezquida-trio/"> My Friend Marko</a> (9 de juny, Molins de Rei).</p>
         </div>
         <div class="module">
             <h1>El Petit de Cal Eril, The Free Fall Band o Estúpida Erikah han visitat el cicle PopaProp</h1>
             <img src="img/popa.jpg" alt="">
-            <p>Amb l’exitosa actuació de Ramon Mirabet a Sant Feliu de Llobregat el passat 10 de maig van finalitzar cinc setmanes d’actuacions del cicle Pop a Prop a Sant Feliu de Llobregat, Molins de Rei i Viladecans. Hem pogut gaudir de la gira de presentació d’El Petit de Cal Eril; dels joves i talentosos The Free Fall Band; de la consolidació com a banda d’Estúpida Erikah o de la nova vessant com a cantautora de la Marta Rius. Cinc concerts que ens han permès escoltar el millor de l’escena del pop catalana.</p>
+            <p>Amb l’exitosa actuació de <strong>Ramon Mirabet</strong> a Sant Feliu de Llobregat el passat 10 de maig van finalitzar cinc setmanes d’actuacions del cicle Pop a Prop a Sant Feliu de Llobregat, Molins de Rei i Viladecans. Hem pogut gaudir de la gira de presentació <strong>d’El Petit de Cal Eril</strong>; dels joves i talentosos <strong>The Free Fall Band</strong>; de la consolidació com a banda d’Estúpida Erikah o de la nova vessant com a cantautora de la <strong>Marta Rius</strong>. Cinc concerts que ens han permès escoltar el millor de l’escena del pop catalana.</p>
         </div>
        
         
